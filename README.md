@@ -19,4 +19,4 @@ This data set was taken off Kaggle. You can use the following link to get the da
 Link - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 # Results
-Our model was able to distinguish between the patients that have Pneumonia successfully. The model gave an accuracy around 96% on the training data and had a validation accuracy of 82%. It was fed an image that it had never seen previously and made the correct prediction. But, i feel there is still some room for improvement.
+Our model was able to distinguish between the patients that have Pneumonia successfully. The model gave an accuracy around 81.9%. 
